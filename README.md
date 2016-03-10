@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Creating Customer Segments
 
 Unsupervised Learning Project
@@ -36,3 +37,8 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 - Detergents_Paper: (3, 40827, 2881.49, 4767.854)
 - Delicatessen: (3, 47943, 1524.87, 2820.106)
 
+||||||| merged common ancestors
+=======
+# customer_segments
+customer_segments
+>>>>>>> 9ca1196cdba548df54028a3713cd7abecc805232
