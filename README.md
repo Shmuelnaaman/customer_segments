@@ -1,4 +1,6 @@
-<<<<<<< HEAD
+In this project I  will analyze a dataset containing annual spending amounts for internal structure, to understand the variation in the different types of customers that a wholesale distributor interacts with.
+
+
 # Creating Customer Segments
 
 Unsupervised Learning Project
