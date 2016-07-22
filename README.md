@@ -1,11 +1,12 @@
 
 # Creating Customer Segments
 
-## Unsupervised Learning Project
+## Unsupervised Learning 
 
-In this project I  will analyze a dataset containing annual spending amounts for internal structure, to understand the variation in the different types of customers that a wholesale distributor interacts with.
+### In this project I use Clustering , PCA and ICA to analyze annual spending from a wholesale distributor database. That enable me to identify different types of customers. That enable the wholesale distributor to provide different services according to the customers need. 
 
-## Please read the Report for detailed analysis. 
+
+## Please read the PDF Report for detailed analysis. 
 
 
 ## Template code
