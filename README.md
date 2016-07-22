@@ -1,9 +1,12 @@
-In this project I  will analyze a dataset containing annual spending amounts for internal structure, to understand the variation in the different types of customers that a wholesale distributor interacts with.
-
 
 # Creating Customer Segments
 
-Unsupervised Learning Project
+## Unsupervised Learning Project
+
+In this project I  will analyze a dataset containing annual spending amounts for internal structure, to understand the variation in the different types of customers that a wholesale distributor interacts with.
+
+## Please read the Report for detailed analysis. 
+
 
 ## Template code
 
@@ -28,19 +31,5 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 - Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous)
 - Delicatessen: annual spending (m.u.)on and delicatessen products (Continuous)
 
-## Descriptive statistics
 
-**Attribute: (Minimum, Maximum, Mean, Std. Deviation)**
 
-- Fresh: ( 3, 112151, 12000.30, 12647.329)
-- Milk: (55, 73498, 5796.27, 7380.377)
-- Grocery: (3, 92780, 7951.28, 9503.163)
-- Frozen: (25, 60869, 3071.93, 4854.673)
-- Detergents_Paper: (3, 40827, 2881.49, 4767.854)
-- Delicatessen: (3, 47943, 1524.87, 2820.106)
-
-||||||| merged common ancestors
-=======
-# customer_segments
-customer_segments
->>>>>>> 9ca1196cdba548df54028a3713cd7abecc805232
