@@ -11,8 +11,6 @@
 
 ## Template code
 
-In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
-
 Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
 ## Dataset
@@ -31,6 +29,3 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 - Frozen: annual spending (m.u.)on frozen products (Continuous)
 - Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous)
 - Delicatessen: annual spending (m.u.)on and delicatessen products (Continuous)
-
-
-
