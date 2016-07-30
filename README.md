@@ -1,11 +1,15 @@
-<<<<<<< HEAD
+
 # Creating Customer Segments
 
-Unsupervised Learning Project
+## Unsupervised Learning 
+
+### In this project I use Clustering , PCA and ICA to analyze annual spending from a wholesale distributor database. That enable me to identify different types of customers. That enable the wholesale distributor to provide different services according to the customers need. 
+
+
+## Please read the PDF Report for detailed analysis. 
+
 
 ## Template code
-
-In this directory (`customer_segments/`), run `ipython notebook`, open `customer_segments.ipynb` and follow the instructions.
 
 Note: You need Python 2.7, NumPy, pandas, matplotlib and scikit-learn to work on this notebook.
 
@@ -25,20 +29,3 @@ Abreu, N. (2011). Analise do perfil do cliente Recheio e desenvolvimento de um s
 - Frozen: annual spending (m.u.)on frozen products (Continuous)
 - Detergents_Paper: annual spending (m.u.) on detergents and paper products (Continuous)
 - Delicatessen: annual spending (m.u.)on and delicatessen products (Continuous)
-
-## Descriptive statistics
-
-**Attribute: (Minimum, Maximum, Mean, Std. Deviation)**
-
-- Fresh: ( 3, 112151, 12000.30, 12647.329)
-- Milk: (55, 73498, 5796.27, 7380.377)
-- Grocery: (3, 92780, 7951.28, 9503.163)
-- Frozen: (25, 60869, 3071.93, 4854.673)
-- Detergents_Paper: (3, 40827, 2881.49, 4767.854)
-- Delicatessen: (3, 47943, 1524.87, 2820.106)
-
-||||||| merged common ancestors
-=======
-# customer_segments
-customer_segments
->>>>>>> 9ca1196cdba548df54028a3713cd7abecc805232
